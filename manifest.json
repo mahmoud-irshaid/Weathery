@@ -1,0 +1,39 @@
+{
+  "short_name": "Weathery",
+  "name": "Weathery",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#ace0f9",
+  "background_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo/02d 72w.png",
+      "type": "image/png", "sizes": "72x72"
+    },
+    {
+      "src": "/logo/02d 96w.png",
+      "type": "image/png", "sizes": "96x96"
+    },
+    {
+      "src": "/logo/02d 128w.png",
+      "type": "image/png","sizes": "128x128"
+    },
+    {
+      "src": "/logo/02d 144w.png",
+      "type": "image/png", "sizes": "144x144"
+    },
+    {
+      "src": "/logo/02d 152w.png",
+      "type": "image/png", "sizes": "152x152"
+    },
+    {
+      "src": "/logo/02d 256w.png",
+      "type": "image/png", "sizes": "256x256"
+    },
+    {
+      "src": "/logo/02d 512w.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}
