@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Weathery/static/js/main.62fcddab.chunk.js",
-    "main.js.map": "/Weathery/static/js/main.62fcddab.chunk.js.map",
+    "main.js": "/Weathery/static/js/main.5309775b.chunk.js",
+    "main.js.map": "/Weathery/static/js/main.5309775b.chunk.js.map",
     "runtime-main.js": "/Weathery/static/js/runtime-main.25273aa9.js",
     "runtime-main.js.map": "/Weathery/static/js/runtime-main.25273aa9.js.map",
     "static/js/2.2478129f.chunk.js": "/Weathery/static/js/2.2478129f.chunk.js",
@@ -33,6 +33,6 @@
   "entrypoints": [
     "static/js/runtime-main.25273aa9.js",
     "static/js/2.2478129f.chunk.js",
-    "static/js/main.62fcddab.chunk.js"
+    "static/js/main.5309775b.chunk.js"
   ]
 }
