@@ -8,39 +8,46 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/logo/02d 72w.png",
+      "src": "./logo/02d 72w.png",
       "type": "image/png",
-      "sizes": "72x72"
+      "sizes": "72x72",
+      "purpose": "any maskable"
     },
     {
-      "src": "/logo/02d 96w.png",
+      "src": "./logo/02d 96w.png",
       "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "96x96",
+      "purpose": "any maskable"
     },
     {
-      "src": "/logo/02d 128w.png",
+      "src": "./logo/02d 128w.png",
       "type": "image/png",
-      "sizes": "128x128"
+      "sizes": "128x128",
+      "purpose": "any maskable"
     },
     {
-      "src": "/logo/02d 144w.png",
+      "src": "./logo/02d 144w.png",
       "type": "image/png",
-      "sizes": "144x144"
+      "sizes": "144x144",
+      "purpose": "any maskable"
     },
     {
-      "src": "/logo/02d 152w.png",
+      "src": "./logo/02d 152w.png",
       "type": "image/png",
-      "sizes": "152x152"
+      "sizes": "152x152",
+      "purpose": "any maskable"
     },
     {
-      "src": "/logo/02d 256w.png",
+      "src": "./logo/02d 256w.png",
       "type": "image/png",
-      "sizes": "256x256"
+      "sizes": "256x256",
+      "purpose": "any maskable"
     },
     {
-      "src": "/logo/02d 512w.png",
+      "src": "./logo/02d 512w.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ]
 }
